@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="AppDelegate.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HelloWorldScene.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\minus\OneDrive\Project\cocos-games\CocosGame\CocosGame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{32813AF5-C867-380B-98A6-E81FAE1FE55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8067B174-3A12-36FC-94D9-E0F6E718DBF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Fonts">
+      <UniqueIdentifier>{acd50756-7fe8-454f-b03f-9e6a9b1f3977}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Res">
+      <UniqueIdentifier>{7c0d06e8-b92d-44b8-920d-9d14716f7cbc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AppDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloWorldScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Resources\res\.gitkeep">
+      <Filter>Resources\Res</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\Resources\fonts\arial.ttf">
+      <Filter>Resources\Fonts</Filter>
+    </Font>
+    <Font Include="..\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\Fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

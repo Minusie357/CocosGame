@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\minus\OneDrive\Project\cocos-games\CocosGame\CocosGame\cocos2d\external\poly2tri\common\shapes.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minus\OneDrive\Project\cocos-games\CocosGame\CocosGame\cocos2d\external\poly2tri\sweep\sweep.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minus\OneDrive\Project\cocos-games\CocosGame\CocosGame\cocos2d\external\poly2tri\sweep\sweep_context.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minus\OneDrive\Project\cocos-games\CocosGame\CocosGame\cocos2d\external\poly2tri\sweep\cdt.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minus\OneDrive\Project\cocos-games\CocosGame\CocosGame\cocos2d\external\poly2tri\sweep\advancing_front.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\minus\OneDrive\Project\cocos-games\CocosGame\CocosGame\cocos2d\external\poly2tri\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8067B174-3A12-36FC-94D9-E0F6E718DBF7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
